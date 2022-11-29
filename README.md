@@ -1,9 +1,8 @@
-Login Application:      
-
-![login-output](https://user-images.githubusercontent.com/115597780/204454893-e205a245-be47-4268-9296-ab446df9ba4a.png)
+Login Application:
 
 MAD OUTPUS:
 
+![login-output](https://user-images.githubusercontent.com/115597780/204454893-e205a245-be47-4268-9296-ab446df9ba4a.png)
 
 
 Menu Application:
